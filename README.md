@@ -19,7 +19,7 @@
 </p>
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=110&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=TECH-DEVS-V1)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=110&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=ADMIN-TECH)
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
