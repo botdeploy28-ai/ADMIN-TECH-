@@ -1,6 +1,6 @@
 # 𝐀𝐃𝐌𝐈𝐍-𝐓𝐄𝐂𝐇 
 𝐀𝐃𝐌𝐈𝐍-𝐓𝐄𝐂𝐇 𝐖𝐇𝐀𝐓𝐒𝐀𝐀𝐏 𝐁𝐎𝐓 𝐏𝐀𝐂𝐊𝐄𝐃 𝐖𝐈𝐓𝐇 𝐌𝐔𝐋𝐓𝐈 𝐅𝐄𝐀𝐓𝐔𝐑𝐄 𝐓𝐎 𝐌𝐄𝐄𝐓 𝐓𝐇𝐄 𝐅𝐔𝐍𝐈𝐒𝐌 𝐎𝐅 𝐖𝐇𝐀𝐓𝐒𝐀𝐀𝐏
-![](https://files.catbox.moe/u9noai.jpg)
+![](https://files.catbox.moe/eitbfk.jpg)
 
 
 
@@ -91,7 +91,7 @@ First star & Fork the repo using the button below!
 
 
 
-![Background Image](https://files.catbox.moe/vofmjs.jpg)
+![Background Image](https://files.catbox.moe/15ocez.jpg)
   <p align="center">
 <a href="https://github.com/GlobalTechInfo/followers"><img title="Followers" src="https://img.shields.io/github/followers/GlobalTechInfo?color=blue&style=flat-square"></a>
 
